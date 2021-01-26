@@ -1,5 +1,5 @@
 <script>
-	let name = 'world';
+	let lama = '🦙';
 </script>
 
-<h1>Hello {name}!</h1>
+🤮 🎼 🎹 🎷 🎺 🎸 🎻 🎙 🥁 🪕 {lama}
